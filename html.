@@ -1,0 +1,106 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Italija - Historija i Kultura</title>
+    <!-- Dodajemo Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+
+   
+<body>
+    
+
+    <!-- Zelena pozadina -->
+    <div style="background-color: green; height: 100px; width: 100%;"></div>
+
+   
+</body>
+
+
+<body>
+    <!-- Dodajemo glavni naslov -->
+    <header class="container text-center mt-4">
+        <h1>Dobrodošli u Italiju</h1>
+        <p>Upoznajte bogatu historiju i kulturu Italije</p>
+    </header>
+
+    <!-- Dodajemo sliku Italije -->
+    <div class="container text-center">
+        <img src="https://www.funtravelnis.rs/wp-content/uploads/2018/02/maxresdefault-8.jpg" alt="Italija" class="img-fluid rounded my-4">
+    </div>
+
+    <!-- Dodajemo prve informacije -->
+    <div class="container">
+        <h2>Historija Italije</h2>
+        <p>
+            Italija, zemlja bogate historije, ima dugu povijest koja seže unatrag tisućama godina.
+            Od Rimskog Carstva do Renesanse, Italija je igrala ključnu ulogu u oblikovanju svjetske povijesti.
+        </p>
+        <p>
+            Tijekom srednjeg vijeka, Italija je bila centar kulturnih inovacija, a danas je poznata po svojoj umjetnosti,
+            arhitekturi i gastronomiji.
+        </p>
+        <p>
+            Italija je također domaćin brojnim povijesnim gradovima poput Rima, Firence i Venecije, svaki sa svojom pričom za ispričati.
+        </p>
+        <p>
+            Osim toga, Italija je domaćin Vatikana, sjedišta Katoličke Crkve, što je važno središte duhovnosti i religijske povijesti.
+        </p>
+        <p>
+            Ova stranica će vam pružiti uvid u raznolikost i bogatstvo Italije, kako na povijesnom tako i na kulturnom planu.
+        </p>
+    </div>
+
+    <!-- Dodajemo tablicu s informacijama -->
+    <div class="container my-4">
+        <h2>Glavni Gradovi Italije</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Grad</th>
+                    <th>Položaj</th>
+                    <th>Poznate Atrakcije</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Rim</td>
+                    <td>Središnja Italija</td>
+                    <td>Koloseum, Forum Romanum, Vatikan</td>
+                </tr>
+                <tr>
+                    <td>Firenca</td>
+                    <td>Središnja Italija</td>
+                    <td>Uffizi Galerija, Katedrala Santa Maria del Fiore</td>
+                </tr>
+                <tr>
+                    <td>Venecija</td>
+                    <td>Sjeverna Italija</td>
+                    <td>Trg svetog Marka, Dvorac Ducal</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Dodajemo dodatne informacije -->
+    <div class="container">
+        <h2>Kulturna Baština</h2>
+        <p>
+            Italija je poznata po svojoj bogatoj kulturnoj baštini. Talijanski umjetnici i arhitekti ostavili su
+            neizbrisiv trag na svjetskoj sceni. Poznate renesansne slike, kao što je "Mona Lisa" Leonarda da Vincija,
+            često se izlažu u talijanskim muzejima.
+        </p>
+        <p>
+            Talijanska kuhinja također je svjetski poznata. Od ukusnih tjestenina do pizze i gelata, Italija nudi
+            gastronomske užitke za svakoga.
+        </p>
+    </div>
+
+    <!-- Dodajemo još jednu sliku -->
+    <div class="container text-center">
+        <img src="https://www.najboljeizitalije.rs/ast_mslu/files/bigstock-pizza-made-in-italy-79825450.jpg" alt="Talijanska Hrana" class="img-fluid rounded my-4">
+    </div>
+</body>
+</html>
